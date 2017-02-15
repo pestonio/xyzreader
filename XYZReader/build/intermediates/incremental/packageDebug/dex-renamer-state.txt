@@ -1,0 +1,7 @@
+#Wed Feb 15 20:14:58 GMT 2017
+base.0=C\:\\Users\\pesto\\Documents\\Android Projects\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5226115f3562a952f278b452c05112377038751c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\pesto\\Documents\\Android Projects\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_963e12878af4eb10a9906fbf7164f63e99813e3a\\classes.dex
+base.1=C\:\\Users\\pesto\\Documents\\Android Projects\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_963e12878af4eb10a9906fbf7164f63e99813e3a
+file.0=C\:\\Users\\pesto\\Documents\\Android Projects\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5226115f3562a952f278b452c05112377038751c\\classes.dex

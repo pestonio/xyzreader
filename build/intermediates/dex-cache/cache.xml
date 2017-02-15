@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\pesto\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.0.0_efc0327868fa2d7adaddf3983c0f02ceb1759653\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c73fa3122456bd71b42cb8f123875bfebf70d310">
+        <dex dex="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_963e12878af4eb10a9906fbf7164f63e99813e3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-22.0.0_df3b586fbe775f3d5be9c46598a6dfd952519fd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-22.0.0_f569e88d3ed4d3ca1a26e678ec889e17027e8538\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_cc05486a338cf4a8d773759660fbf0cd477cb730\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-22.0.0_bbaf7731161391780f4ea19357358f39b39d593d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_5edf9b85d1e1b1aaa5120ed85bad2b6f113d753b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_ce115d0f1f79ab8ad07a2a17ff87f06bda133e44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.0.0_7277d84c66bda8c13d386e513db7e9090c0ca546\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.0.0_daa994a280661deed3f1307dffcee5eacd91533c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pesto\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_0f02315f4ad992c7fdb49cbdb2304ee250a8bc5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="06ccdfa7e7e86012b64364adb6c2d104ebf4f826">
+        <dex dex="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5226115f3562a952f278b452c05112377038751c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pesto\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.1.2_f19f415c1de3b8d652efd9343374e7b84ec04732\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="C:\Users\pesto\Documents\Android Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-22.0.0_a74bff1ee34385260d2fd945bbd32454c3863ead\classes.dex" />
+    </item>
+
+</items>
